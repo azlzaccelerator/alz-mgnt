@@ -1,0 +1,6 @@
+default_location             = "eastus2"
+root_id                      = "labs"
+root_name                    = "ambuog"
+subscription_id_connectivity = "d703fc29-2b20-451a-8876-3fd389b981ed"
+subscription_id_identity     = "d703fc29-2b20-451a-8876-3fd389b981ed"
+subscription_id_management   = "d703fc29-2b20-451a-8876-3fd389b981ed"
